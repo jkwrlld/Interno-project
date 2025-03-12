@@ -1,0 +1,115 @@
+.container {
+    width: 1440px;
+    padding: 0 15px;
+    margin: 0 auto;
+  }
+
+
+.types-ul {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    list-style: none;
+  }
+  .types-li1 {
+    width: 400px;
+    padding-top: 75px;
+    padding-bottom: 70px;
+    margin-right: 93px;
+  }
+  .tli-title {
+    font-family: "DM Serif Display";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 39px;
+    text-align: center;
+    letter-spacing: 0.22px;
+  
+    color: #292f36;
+  }
+  .tli-text {
+    font-family: "Jost";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    text-align: center;
+    letter-spacing: 0.22px;
+  
+    color: #4d5053;
+  }
+
+  .types-li2 {
+    width: 400px;
+    padding-top: 75px;
+    padding-bottom: 70px;
+  }
+  
+  .tli-head {
+    font-family: "DM Serif Display";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 39px;
+    text-align: center;
+    letter-spacing: 0.22px;
+  
+    color: #292f36;
+  }
+
+  .tli-text {
+    font-family: "Jost";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    text-align: center;
+    letter-spacing: 0.22px;
+  
+    color: #4d5053;
+  }
+
+.tli-title2 {
+    font-family: "DM Serif Display";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 39px;
+    text-align: center;
+    letter-spacing: 0.22px;
+  
+    color: #292f36;
+}
+
+.tli-title3 { 
+    font-family: "DM Serif Display";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 39px;
+    text-align: center;
+    letter-spacing: 0.22px;
+  
+    color: #292f36;
+  }
+  
+  .types-li3 {
+    width: 400px;
+    padding-top: 75px;
+    padding-bottom: 70px;
+    margin-left: 103px;
+  }
+
+  .-text {
+    font-family: "Jost";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 33px;
+    text-align: center;
+    letter-spacing: 0.22px;
+  
+    color: #4d5053;
+  }
+  
