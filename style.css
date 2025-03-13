@@ -1,140 +1,138 @@
 .container {
-    width: 1440px;
-    padding: 0 15px;
-    margin: 0 auto;
+  width: 1200px;
+  padding: 0 15px;
+  margin: 0 auto;
 }
-
 
 .types-ul {
-    display: flex;
-    text-align: center;
-    justify-content: center;
-    list-style: none;
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  list-style: none;
 }
 .types-li1 {
-    width: 400px;
-    padding-top: 75px;
-    padding-bottom: 70px;
-    margin-right: 93px;
+  width: 400px;
+  padding-top: 75px;
+  padding-bottom: 70px;
+  margin-right: 93px;
 }
 .tli-title {
-    font-family: "DM Serif Display", serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 25px;
-    line-height: 39px;
-    text-align: center;
-    letter-spacing: 0.22px;
-  
-    color: #292f36;
+  font-family: "DM Serif Display", serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 39px;
+  text-align: center;
+  letter-spacing: 0.22px;
+
+  color: #292f36;
 }
 .tli-text1 {
-    font-family: "Jost";
-    font-style: normal;
-    font-weight: 400;
-    font-size: 22px;
-    line-height: 33px;
-    text-align: center;
-    letter-spacing: 0.22px;
-  
-    color: #4d5053;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  text-align: center;
+  letter-spacing: 0.22px;
+
+  color: #4d5053;
 }
 
 .types-li2 {
-    width: 400px;
-    padding-top: 75px;
-    padding-bottom: 70px;
+  width: 400px;
+  padding-top: 75px;
+  padding-bottom: 70px;
 }
-  
+
 .tli-title2 {
-    font-family: "DM Serif Display", serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 25px;
-    line-height: 39px;
-    text-align: center;
-    letter-spacing: 0.22px;
-  
-    color: #292f36;
+  font-family: "DM Serif Display", serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 39px;
+  text-align: center;
+  letter-spacing: 0.22px;
+
+  color: #292f36;
 }
 
 .tli-text2 {
-    font-family: "Jost";
-    font-style: normal;
-    font-weight: 400;
-    font-size: 22px;
-    line-height: 33px;
-    text-align: center;
-    letter-spacing: 0.22px;
-  
-    color: #4d5053;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  text-align: center;
+  letter-spacing: 0.22px;
+
+  color: #4d5053;
 }
 
 .tli-title3 {
-    font-family: "DM Serif Display", serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 25px;
-    line-height: 39px;
-    text-align: center;
-    letter-spacing: 0.22px;
-  
-    color: #292f36;
+  font-family: "DM Serif Display", serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 39px;
+  text-align: center;
+  letter-spacing: 0.22px;
+
+  color: #292f36;
 }
 
-.tli-title3 { 
-    font-family: "DM Serif Display", serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 25px;
-    line-height: 39px;
-    text-align: center;
-    letter-spacing: 0.22px;
-  
-    color: #292f36;
+.tli-title3 {
+  font-family: "DM Serif Display", serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 25px;
+  line-height: 39px;
+  text-align: center;
+  letter-spacing: 0.22px;
+
+  color: #292f36;
 }
-  
-  .types-li3 {
-    width: 400px;
-    padding-top: 75px;
-    padding-bottom: 70px;
-    margin-left: 103px;
+
+.types-li3 {
+  width: 400px;
+  padding-top: 75px;
+  padding-bottom: 70px;
+  margin-left: 103px;
 }
 
 .tli-text3 {
-    font-family: "Jost";
-    font-style: normal;
-    font-weight: 400;
-    font-size: 22px;
-    line-height: 33px;
-    text-align: center;
-    letter-spacing: 0.22px;
-  
-    color: #4d5053;
-}
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  text-align: center;
+  letter-spacing: 0.22px;
 
+  color: #4d5053;
+}
 
 .wli-title {
-    font-family: "DM Serif Display", serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 50px;
-    line-height: 65px;
-    letter-spacing: 0.22px;
-    color: #292f36;
+  font-family: "DM Serif Display", serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 50px;
+  line-height: 65px;
+  letter-spacing: 0.22px;
+  color: #292f36;
 }
-  
+
 .wli-text2 {
-    font-family: "Jost";
-    font-style: normal;
-    font-weight: 400;
-    font-size: 22px;
-    line-height: 33px;
-    letter-spacing: 0.22px;
-    color: #4d5053;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  letter-spacing: 0.22px;
+  color: #4d5053;
 }
-  
-.wetack-ul{
+
+.wetack-ul {
   list-style: none;
 }
 
@@ -143,76 +141,63 @@
 }
 
 .wli-text3 {
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: 0.22px;
 
-
-font-family: 'Jost';
-font-style: normal;
-font-weight: 400;
-font-size: 24px;
-line-height: 36px;
-letter-spacing: 0.22px;
-
-color: #4D5053;
-
-
-
+  color: #4d5053;
 }
 
 .wli-text4 {
-height: 33px;
-left: 0%;
-right: 0.2%;
-top: 35.2px;
+  height: 33px;
+  left: 0%;
+  right: 0.2%;
+  top: 35.2px;
 
-font-family: 'Jost';
-font-style: normal;
-font-weight: 400;
-font-size: 22px;
-line-height: 33px;/
-letter-spacing: 0.22px;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  /letter-spacing: 0.22px;
 
-color: #4D5053;
-padding-bottom: 50px;
-
-
+  color: #4d5053;
+  padding-bottom: 50px;
 }
-
 
 .wet-button {
   background-image: url("./img/image3.webp");
-box-sizing: border-box;
+  box-sizing: border-box;
 
+  height: 71px;
+  left: 0%;
+  right: 0%;
+  top: 0px;
 
-height: 71px;
-left: 0%;
-right: 0%;
-top: 0px;
-
-background: #292F36;
-border: 2px solid #292F36;
-border-radius: 18px;
-
-
-/* Vector */
-
-
+  background-color: transparent;
+  background-repeat: no-repeat;
+  border: 2px solid #292f36;
+  /* border-radius: 18px; */
+  border: none;
+  outline: none;
+  /* Vector */
 }
 
 .pg {
+  width: 263px;
+  height: 71px;
 
-width: 263px;
-height: 71px;
+  font-family: "Jost";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 27px;
+  letter-spacing: 0.72px;
 
-font-family: 'Jost';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 27px;
-letter-spacing: 0.72px;
-
-color: #FFFFFF;
-
-
+  color: #ffffff;
 }
 
 .ul2 {
@@ -221,4 +206,17 @@ color: #FFFFFF;
 
 body {
   font-family: "DM Serif Display", serif;
+}
+
+.qwe {
+  display: flex;
+}
+
+.asd {
+  display: flex;
+  margin-top: 40px;
+}
+
+.iop {
+  margin-left: 20px;
 }
