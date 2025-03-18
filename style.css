@@ -165,17 +165,15 @@
   /letter-spacing: 0.22px;
 
   color: #4d5053;
-  padding-bottom: 50px;
+  margin: 0;
 }
 
 .wet-button {
   background-image: url("./img/image3.webp");
   box-sizing: border-box;
 
+  width: 263px;
   height: 71px;
-  left: 0%;
-  right: 0%;
-  top: 0px;
 
   background-color: transparent;
   background-repeat: no-repeat;
@@ -187,9 +185,6 @@
 }
 
 .pg {
-  width: 263px;
-  height: 71px;
-
   font-family: "Jost";
   font-style: normal;
   font-weight: 400;
@@ -198,6 +193,8 @@
   letter-spacing: 0.72px;
 
   color: #ffffff;
+  padding-right: 67px;
+  padding-left: 34px;
 }
 
 .ul2 {
@@ -215,8 +212,12 @@ body {
 .asd {
   display: flex;
   margin-top: 40px;
+  align-items: center;
+  margin-bottom: 50px;
 }
 
 .iop {
   margin-left: 20px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
